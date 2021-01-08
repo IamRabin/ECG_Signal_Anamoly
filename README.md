@@ -15,6 +15,7 @@ The [data](http://timeseriesclassification.com/description.php?Dataset=ECG5000) 
 # Result Visulizations:
 
 ![Sample of reconstructed signal](./readme_fig/img.gif)
+
  ***Fig:*** *Sample of reconstructed signal*
 
 
